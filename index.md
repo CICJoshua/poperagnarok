@@ -4,3 +4,7 @@
 
 layout: home
 ---
+<ul>
+<link rel="stylesheet" href="foto_yo.css">
+<img style="float: right;" src="/poperagnarok/foto_yo.jpg" name="foto_yo">
+</ul>
