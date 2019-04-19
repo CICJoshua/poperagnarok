@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-![](https://cicjoshua.github.io/poperagnarok/nube.jpg)
+![](https://github.com/CICJoshua/poperagnarok/blob/master/nube.jpg?raw=true)
 
 ¡Hola a todos!
 
