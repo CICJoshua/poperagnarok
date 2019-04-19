@@ -5,9 +5,8 @@ date:   2019-04-19 15:39:48 -0500
 categories: jekyll update
 ---
 
-# Diseño de nube de palabras
 
-![](https://cicjoshua.github.io/poperagnarok/_site/nube.jpg)
+![](https://cicjoshua.github.io/poperagnarok/nube.jpg)
 
 ¡Hola a todos!
 
