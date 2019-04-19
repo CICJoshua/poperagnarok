@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Diseño de nube de palabras
 
-![](/Users/poperagnarok/Documents/unadm/Github/poperagnarok/nube.jpg)
+![](/poperagnarok/nube.jpg)
 
 ¡Hola a todos!
 
