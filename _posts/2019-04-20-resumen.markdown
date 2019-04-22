@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Retos de estudiar en línea"
-date:   2019-04-21 20:10:00 -0500
+date:   2019-04-20 20:10:00 -0500
 categories: jekyll update
 ---
 Hola compañeros
