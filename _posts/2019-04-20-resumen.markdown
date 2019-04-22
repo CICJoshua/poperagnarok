@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Retos de estudiar en línea"
-date:   2019-04-20 20:10:00 -0500
+date:   2019-04-21 20:10:00 -0500
 categories: jekyll update
 ---
 Hola compañeros
@@ -15,6 +15,8 @@ aprender a cocinar, a programar un lenguaje de computadora, un nuevo idioma, etc
 aprender lo que sea en línea, el estudiante se preguntará, ¿por qué debo de pertenecer a un 
 sistema educativo actualmente en el siglo XX? La razón es porque puede. ¿Qué quiero decir
 con está afirmación?
+
+## El internet como medio de aprendizaje en el siglo XX
 
 El internet es una herramienta al alcance de un parte significativa de los mexicanos, esto
 beneficia al estudiante en línea ya que tiene al alcance una cantidad impresionante de información.
@@ -47,7 +49,7 @@ acerca de lo que se quiere aprender, de participar en los foros de discusión en
 el tema después de haberlo estudiado. Estas actividades son enfocadas al aprendizaje y no al de la enseñanza de la
 experiencia de un profesor en el tema.
 
-## Conclusión
+### Conclusión
 
 Estudiar en un modelo educativo diferente al que el gobierno nos acostumbro por años será un camino complejo. Requerirá
 de nuestras capacidades para encontrar la idea principal de un mar de información en internet. Es posible que durante
