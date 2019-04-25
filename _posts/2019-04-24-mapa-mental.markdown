@@ -1,61 +1,52 @@
 ---
 layout: post
-title:  "Retos de estudiar en línea"
-date:   2019-04-20 20:10:00 -0500
+title:  "Aprender a aprender"
+date:   2019-04-24 21:11:00 -0500
 categories: jekyll update
 ---
-Hola compañeros
 
-Este domingo de pascua hablaremos de los retos, complicaciones, satisfacciones y demás ciones
-que un estudiante en línea debe de pasar durante su proceso de formación.
+![](https://raw.githubusercontent.com/CICJoshua/poperagnarok/master/Images/unity%201/mapa_mental.png)
 
-Como primer punto quiero tratar el tema de la motivación del estudiante actual en el siglo XX.
-El acercamiento con las TICs (Tecnologías de la información y la comunicación) facilita el
-aprender a cocinar, a programar un lenguaje de computadora, un nuevo idioma, etc.. Si podemos
-aprender lo que sea en línea, el estudiante se preguntará, ¿por qué debo de pertenecer a un 
-sistema educativo actualmente en el siglo XX? La razón es porque puede. ¿Qué quiero decir
-con está afirmación?
+¡Hola compañeros!
 
-## El internet como medio de aprendizaje en el siglo XX
+El tema de hoy ha sido el tema de todos los estudiantes en el país. Por decadas
+el estudiante se ha hecho muchas preguntas al respecto, algunas de ellas:
 
-El internet es una herramienta al alcance de un parte significativa de los mexicanos, esto
-beneficia al estudiante en línea ya que tiene al alcance una cantidad impresionante de información.
-Actualmente el tamaño del internet es de 10 terabytes, aproximadamente 400 millones de páginas
-web. ¿Toda la información es útil? Depende del cristal con que se mire. Es por ello que seguiremos
-necesitando de orientación para hacer válido lo que se pretende aprender.
+1. ¿Qué debo de hacer para poder aprender este tema de la mejor manera?
+2. ¿Por qué aquel compañero saca mejores calificaciones que yo si nuestro
+profesor nos enseña de la misma forma?
+3. ¿Cómo debo de aprender este tema de matemáticas?
 
-El querer de aprender de esta generación se materializa con las iniciativas como la UnADM.
-Si no hubieran consumidores, no se apostaría por estos proyectos.
+Este tipo de preguntas a lo largo de nuestra formación educativa nos han
+hecho creer que no somo aptos para el estudio. Este tipo de situaciones
+orillan en ocasiones a dejar la escuela, por el hecho de pensar que el estudio
+no es para ellos. Pero que de alejado puede estar este pensamiento de la causa
+original del problema.
 
-El tiempo que dedicamos al aprendizaje es una pieza clave de que tanto llegaremos a aprender
-en cualquier modelo educativo, desde que la imprenta formó parte del progreso de la humanidad,
-el ser humano ha pasado por muchas horas enfrente de libros para adquirir conocimiento. Es por
-ello que el estudiante que puede es por que quiere, y eso lo orilla a generar un espacio en su
-agenda del día para desarrollar aprendizaje.
+Cada individuo aprender de forma diferente. Entonces sabiendo esto, ¿cómo es que
+existen estrategias de aprendizaje general?
 
-### El rol de un facilitador
+El individuo tiene el mismo proceso de aprendizaje cognitivo, esto se ha desarrollado
+a lo largo de la evolución del mismo. Obervación, razonamiento, clasificación,
+estos son algunos de las herramientas que cuenta el ser humano para hacerse de
+conocimiento. Reconocer formas y figuras, tener la habilidad de describir cosas
+son rasgos que el ser humano comparte, aunque se piense que aprendemos de diferente forma.
 
-Aunque el mayor participante en un proceso de aprendizaje es el individuo, se debe de considerar
-que el que posé el conocimiento sigue siendo el experto en el tema, si fuera el caso de que
-supieramos todo el conocimiento del universo, para que estudiar, pero como no es el caso y jamás lo será,
-debemos de contar con la orientación de expertos que nos facilitará el conocimiento, pero __¿qué es facilitar
-el conocimiento?__
+Lo que nos hace diferentes son las estrategias de aprendizaje. Estas mismas nos ayudan
+a desarrollar conocimiento. Son ellas las que el individuo aplica de forma diferente
+para adquirir cualquier conocimiento. En el siglo XXI las herramientas han evolucionado.
+Permitiendo que individuos que aprenden de forma visual, entren a __Youtube__ y puedan
+generar conocimiento. Es importante entonces, poder diferenciar la forma en que el individuo
+aprende, sin dejar aún lado los proceso cognitivos que imperan en el aprendizaje.
 
-La diferencia entre un modelo educativo escolarizado vs. un modelo educativo a distancia es el rol principal del
-individuo que quiere aprender. Ante un modelo escolarizado, el alumno es un actor pasivo, el cual acepta por verdadero
-el conocimiento que tiene el profesor del tema y muy rara vez existen debates de ideas. En un modelo como el de UnADM
-el rol principal recae en el estudiante. Este mismo es el que genera el aprendizaje, leyendo de fuentes diferentes
-acerca de lo que se quiere aprender, de participar en los foros de discusión en donde el mismo evaluará si domina
-el tema después de haberlo estudiado. Estas actividades son enfocadas al aprendizaje y no al de la enseñanza de la
-experiencia de un profesor en el tema.
+Acompañado a los procesos cognitivos, encontramos los procesos meta-cognitivos. Estos
+son la forma de cómo utilizamos la cognición para planear, ejecutar y controlar el aprendizaje.
+Esto quiere decir que debemos de tener un plan de qué es lo que queremos aprender, controlando
+los resultados de la ejecución del proceso de aprendizaje. De esta forma la meta-cognición
+sirve de guía al momento de aplicar las estrategias cognitivas para el aprendizaje de un saber.
 
-### Conclusión
+Todo esto nos ayuda a que el proceso de aprendizaje sea de forma eficiente. Con este saber
+el ser humanos será capaz de entender que el aprender no sólo implica el memorizar apuntes,
+si no que conlleva una __organización__ del proceso de aprendizaje.
 
-Estudiar en un modelo educativo diferente al que el gobierno nos acostumbro por años será un camino complejo. Requerirá
-de nuestras capacidades para encontrar la idea principal de un mar de información en internet. Es posible que durante
-el proceso de aprendizaje la frustración nos domine, pero que camino al conocimiento ha sido fácil. El humano mismo
-ha sufrido de tropiesos y aciertos a lo largo de su evolución, sigamos con la meta clara que es ser __Matemáticos__.
-
-__Suerte en su camino__
-
-Joshua Guerrero 
+Joshua Guerrero
