@@ -4,7 +4,5 @@
 
 layout: home
 ---
-<ul>
-<link rel="stylesheet" href="foto_yo.css">
-<img style="float: right;" src="/poperagnarok/foto_yo.jpg" name="foto_yo">
-</ul>
+
+<img style="float: right; border-radius: 50%;" src="/poperagnarok/foto_yo.jpg" name="foto_yo">
