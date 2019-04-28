@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<img style="float: right; border-radius: 50%;" src="/poperagnarok/foto_yo.jpg" name="foto_yo">
+<img style="float: right; border-radius: 50%; border-style: solid" src="/poperagnarok/foto_yo.jpg" class="foto_yo">
