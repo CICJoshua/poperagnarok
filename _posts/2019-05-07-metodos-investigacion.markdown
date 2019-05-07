@@ -4,6 +4,8 @@ title:  "Métodos de investigación"
 date:   2019-05-07 12:49:00 -0500
 categories: jekyll update
 ---
+![Mapa_mental](https://raw.githubusercontent.com/CICJoshua/poperagnarok/master/Images/unidad2/Investigaci%C3%B3n.png)
+
 Hola compañeros
 
 En este post explicaré el por qué es importante llevar una metodología al momento
