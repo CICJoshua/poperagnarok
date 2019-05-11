@@ -37,7 +37,7 @@ En la siguiente imagen muestró el modelo gráfico de un __perceptrón__:
 
 ![Perceptrón](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad2/perceptron.png?raw=true)
 
-# Obejtivos generales
+## Obejtivos generales
 
 Realizar un análisis matemático del modelo llamado __Perceptrón__. Este modelo clasifica de forma correcta la compuerta lógica **XOR**.
 
