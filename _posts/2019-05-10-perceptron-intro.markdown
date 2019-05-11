@@ -35,7 +35,7 @@ En esta serie de posts hablaré del modelo __conexionista__, el cual ha generado
 
 En la siguiente imagen muestró el modelo gráfico de un __perceptrón__:
 
-![Perceptrón]()
+![Perceptrón](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad2/perceptron.png?raw=true)
 
 # Obejtivos generales
 
@@ -52,6 +52,6 @@ Realizar un análisis matemático del modelo llamado __Perceptrón__. Este model
 
 El plan de actividades que presento a continuación es el correspodiente del proceso de investigación del __perceptón__.
 
-![Plan de actividades]()
+![Plan de actividades](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad2/plan.png?raw=true)
 
 Joshua Guerrero
