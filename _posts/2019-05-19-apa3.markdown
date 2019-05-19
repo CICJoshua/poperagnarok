@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Buscadores de información científica"
+date:   2019-05-19 16:20:00 -0500
+categories: jekyll update
+---
+
+# ¿En dónde buscar información en internet?
+
+Hola compañeros,
+
+En este __post__ les enseñaré en donde hice la recopilación de información de mi
+tema llamado *"Perceptrón"*.
+
+Actualmente los buscadores como son __Google académico__ son la fuente de información
+científica de preferencia. En este buscador podemos encontrar *artículos acdémicos*
+de centro de investigación en todo el mundo. Para mi tema de investigación encontré
+un artículo en donde se expone los 30 años que se llevan estudiando los algoritmos
+adaptativos, también llamados de aprendizaje (Widrow & Lehr (1990)). Otra forma de encontrar
+artículos académicos es la página [Springer](https://link.springer.com) la cual contiene
+una variedad sustanciosa de libros y artículos. Otro buscador importante es
+[Elsevier](https://www.elsevier.com/es-es) otro sitio en internet para consultar
+artículos académicos.
+
+Desafortunadamente hasta en el campo científico la marca del capitalismo existe. Aunque
+se piense que el conocimiento debe de ser gratuito, accesible para la comunidad
+y para el mundo en general, las denominadas __revistas científicas__ han tomado el poder
+del conocimiento. Debido a que el *Sistema Nacional de Investigación*  por sus siglas
+(SNI), organismo controlado por __Conacyt__ promueve el asenso escalonado de los
+investigadores del país con la condición de publicar resultados en dichas revistas
+científicas.
+
+Esto ocasiona que se vuelva un negocio grande el explotar la necesidad de escalar en
+el *SNI* buscando un sueldo y un reconocimiento en la comunidad científica del país.
+Estas revistas cobran por publicar estos artículos, es por ello que encontraremos
+una cantidad considerable de artículos disponibles solo al momento de pagarlos.
+
+Entonce queridos compañeros, su pregunta que me hice al comienzo de mi vida de
+investigador __¿Cómo encuentro esos artículos en la red gratis ?__ ya que no tenemos
+dinero en ocasiones para comprar el conocimiento que necesitamos. Mi pregunta la contesté
+en dos sitios de internet. Casualmente con dominios rusos (lol). Las dos páginas que
+presento en este artículo siguen la filosofía de que __El conocimiento no debe
+de ser capitalizado__.
+
+> 1. https://b-ok.cc/
+> 2. https://sci-hub.tw
+
+La primera es una página en donde se pueden descargar *libros* mientras que la segunda
+en donde podemos descargar los artículos académicos que nos interesa para nuestra
+investigación.
+
+# Referencias
+
+Widrow, B., & Lehr, M. A. (1990). 30 years of adaptive neural networks: Perceptron, madaline, and backpropagation. Proceedings of the IEEE, 78(9), 1415–1442.
