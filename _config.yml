@@ -13,12 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# Jekyll scholar
+scholar:
+   source: ./_bibliography
+   style: ./apa.csl
+   bibliography: ./biblio.bib
+   bibliography_list_tag: "ul.no-bullet"
+#
 title: Blog para matemáticos
 email: joshuaguerrero@live.com.mx
 description: >- # this means to ignore newlines until "baseurl:"
   Maestro en ciencias computacionales (ya mero), minero de datos, diseñador de algoritmos de aprendizaje
   de máquina, programador de sistemas de inteligenica artificial, músico frustrado y mitómano profesional.
-  
+
 baseurl: "/poperagnarok" # the subpath of your site, e.g. /blog
 url: "https://github.com/CICJoshua/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Josh_89_H
