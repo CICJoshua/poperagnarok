@@ -10,20 +10,20 @@ __Hola compañeros__,
 
 En este post hablaremos de la investigación de campo que tuvo lugar en el *Centro dermatológico Dr. Ladislao Pascua*. En esta intitución realicé la siguiente investigación.
 
- ## Notas de la bitácora
+## Notas de la bitácora
 
- ### Lugar
+### Lugar
 
- El lugar en el que realizamos la investigación de campo se encuentra en
- *Dr José María Vertiz 464, Buenos Aires, 06780 Ciudad de México, CDMX*. Este centro es el mejor en dermatología de la ciudad de México.
+El lugar en el que realizamos la investigación de campo se encuentra en
+*Dr José María Vertiz 464, Buenos Aires, 06780 Ciudad de México, CDMX*. Este centro es el mejor en dermatología de la ciudad de México.
 
- ### Personal importante
+### Personal importante
 
- Hay 3 personas importantes en el encuentro que tuvo lugar la semana pasada:
+Hay 3 personas importantes en el encuentro que tuvo lugar la semana pasada:
 
- .1 Ingeniero Luis Ángeles
- .2 Doctora Martha Morales
- .3 Doctor Fermín Jurado Santa Cruz
+ 1. Ingeniero Luis Ángeles
+ 2. Doctora Martha Morales
+ 3. Doctor Fermín Jurado Santa Cruz
 
 Este último es el director del centro, con ellos expuse mi proyecto de titulación, el cual utiliza la evolución del *perceptrón* para clasificar textos clínicos.
 
