@@ -6,7 +6,7 @@ categories: jekyll update
 author: Joshua Guerrero
 ---
 
-##Hola compañeros,
+## Hola compañeros,
 
 En este post discutiremos la forma por la cual llegué a la conclusión de los nombres y apellidos de cada uno de los amigos de Pamela, el cual forma parte de la actividad 1 de la unidad 3 del curso propedéutico.
 
