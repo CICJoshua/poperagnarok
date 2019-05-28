@@ -5,7 +5,6 @@ date:   2019-05-28 13:55:00 -0500
 categories: jekyll update
 author: Joshua Guerrero
 ---
-
 ## Hola compañeros,
 
 En este post voy a exponer la opinión de la 20 personas con respecto a la **Inteligencia Artificial**. Es una buena idea, mala idea; qué parte de la población opina que es mala idea implementar __IA__ en México.
