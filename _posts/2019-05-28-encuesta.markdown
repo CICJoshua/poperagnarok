@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Encuesta acerca de la IA"
+date:   2019-05-28 13:55:00 -0500
+categories: jekyll update
+author: Joshua Guerrero
+---
+
+## Hola compañeros,
+
+En este post voy a exponer la opinión de la 20 personas con respecto a la **Inteligencia Artificial**. Es una buena idea, mala idea; qué parte de la población opina que es mala idea implementar __IA__ en México.
+
+## Las preguntas
+
+Las siguientes preguntas fueron enviadas en un formulario de google, el cual nos permite visualizar las respuestas de los entrevistados desde su interfaz, nosotros fuimos más allá y utilizamos la librería **Seaborn** del lenguaje de programación en __Python__.
+
+Las preguntas son las siguientes:
+
+1. ¿Cuál es tu edad?
+2. ¿Cuál es tu genero?
+3. ¿Cuál es tu ocupación?
+4. ¿Cuál es tu nivel de estudios?
+5. ¿cuál es tu estado civil?
+6. ¿Sabes qué es la inteligencia artificial?
+7. ¿Sabes programar?
+8. ¿Crees que México debería de invertir en investigación del tema de inteligencia artificial?
+9. ¿Se te ocurre alguna aplicación que beneficie al país utilizando IA?
+10. ¿Qué aplicación se te ocurre?
+
+## Lo que dice la gente
+
+En las siguientes gráficas encontramos la relación de las primeras 5 preguntas las cuales llamo "Información descriptiva" vs la "Información caulitativa". La primera define al individuo, la segunda define la postura del individuo.
+
+## Pregunta 6
+
+Esta pregunta está relacionada en la gráfica con la edad del individuo y su nivel de estudio. Podemos observar que en la actualidad el tema popular de la __IA__ es conocido por un gran parte de la población, sin importar la edad del entrevistado.
+
+![¿Sabes qué es la inteligencia artificial?]()
+
+## Pregunta 7
+
+En esta gráfica se puede observar el uso de la computadora como herramienta de trabajo, ya que la pregunta es abierta, no es necesario saber en que lenguaje las personas saben programar. Se obseva una tendencia de que las personas cada vez se interesan por aprender a programar.
+
+![¿Sabes programar?]()
+
+## Pregunta 8 y 9
+
+En esta gráfica podemos observar la aceptación que tiene la sociedad hacia la __IA__. Esta pregunta se hizo para que los investigadores en este tema tomen en cuenta que la sociedad acepta y espera que en México apliquemos esta ciencia para el bienestar del país. Actualmente existen iniciativas como la que propuso el Director del __Instituto Politécnico Nacional__ Dr. Mario Casas de crear dos carreras con corte en __IA__ como lo son la carrera en **Ingeniería en Inteligencia Artificial** y la carrera **Ingeniería en Ciencias de Datos** son las que dan impulso a esta rama de la computación.
+
+[Noticia](https://www.jornada.com.mx/ultimas/2019/05/19/tendra-ipn-nueva-escuela-superior-en-palenque-5469.html)
+
+![¿Crees que México debería de invertir en investigación del tema de inteligencia artificial?]()
+![¿Se te ocurre alguna aplicación que beneficie al país utilizando IA?]
+
+## Edad de los entrevistados
+
+En la última gráfica podemos observar el __Boxplot__ de la edad de las personas. La concentración mayor es de entre 20 y 25 años de los entrevistados.
+
+![Edad de los entrevistados]()
