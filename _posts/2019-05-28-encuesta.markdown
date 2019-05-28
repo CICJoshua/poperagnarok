@@ -49,7 +49,7 @@ En esta gráfica podemos observar la aceptación que tiene la sociedad hacia la 
 [Noticia](https://www.jornada.com.mx/ultimas/2019/05/19/tendra-ipn-nueva-escuela-superior-en-palenque-5469.html)
 
 ![¿Crees que México debería de invertir en investigación del tema de inteligencia artificial?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p3.png?raw=true)
-![¿Se te ocurre alguna aplicación que beneficie al país utilizando IA?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p4.png?raw=true)
+
 
 ## Edad de los entrevistados
 
