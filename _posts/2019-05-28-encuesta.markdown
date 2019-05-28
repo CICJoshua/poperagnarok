@@ -35,13 +35,13 @@ En las siguientes gráficas encontramos la relación de las primeras 5 preguntas
 
 Esta pregunta está relacionada en la gráfica con la edad del individuo y su nivel de estudio. Podemos observar que en la actualidad el tema popular de la __IA__ es conocido por un gran parte de la población, sin importar la edad del entrevistado.
 
-![¿Sabes qué es la inteligencia artificial?]()
+![¿Sabes qué es la inteligencia artificial?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p1.png?raw=true)
 
 ## Pregunta 7
 
 En esta gráfica se puede observar el uso de la computadora como herramienta de trabajo, ya que la pregunta es abierta, no es necesario saber en que lenguaje las personas saben programar. Se obseva una tendencia de que las personas cada vez se interesan por aprender a programar.
 
-![¿Sabes programar?]()
+![¿Sabes programar?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p2.png?raw=true)
 
 ## Pregunta 8 y 9
 
@@ -49,11 +49,11 @@ En esta gráfica podemos observar la aceptación que tiene la sociedad hacia la 
 
 [Noticia](https://www.jornada.com.mx/ultimas/2019/05/19/tendra-ipn-nueva-escuela-superior-en-palenque-5469.html)
 
-![¿Crees que México debería de invertir en investigación del tema de inteligencia artificial?]()
-![¿Se te ocurre alguna aplicación que beneficie al país utilizando IA?]
+![¿Crees que México debería de invertir en investigación del tema de inteligencia artificial?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p3.png?raw=true)
+![¿Se te ocurre alguna aplicación que beneficie al país utilizando IA?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p4.png)
 
 ## Edad de los entrevistados
 
 En la última gráfica podemos observar el __Boxplot__ de la edad de las personas. La concentración mayor es de entre 20 y 25 años de los entrevistados.
 
-![Edad de los entrevistados]()
+![Edad de los entrevistados](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p5.png)
