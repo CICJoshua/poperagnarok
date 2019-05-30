@@ -1,0 +1,174 @@
+---
+layout: post
+title:  "Proyecto final"
+date:   2019-05-29 23:04:00 -0500
+categories: jekyll update
+author: Joshua Guerrero
+---
+## Hola compañeros,
+
+En este post vamos a hablar del proyecto que realicé del perceptrón.
+En este proyecto lo resumo aquí.
+
+Les dejo el link en donde podes encontrar el proyecto completo.
+
+[link]()
+
+En 1943, Warren McCulloch y Walter Pitts introdujeron una de
+las primeras neuronas artificiales. La característica principal
+de su modelo de neurona es que un suma ponderada de las
+señales de entrada se compara con un umbral para
+determinar la neurona de salida. Cuando la suma es mayor o
+igual al umbral, la salida es 1. Cuando la suma es menor que
+el umbral, la salida es 0 (@knuthwebsite).
+
+El Perceptrón es limitado. Dichas limitaciones fueron
+publicadas en el libro Perceptrons por Marvin Minsky y
+Seymour Papert. Ellos demostraron que las redes perceptrón
+eran incapaces de implementar ciertas funciones
+elementales. No fue sino hasta la década de los 8O’s que
+estas limitaciones fueron superadas con las redes perceptrón
+mejoradas (multicapa) asociadas con reglas de aprendizaje.
+Por Reglas de Aprendizaje nos referimos a un procedimiento
+para modificar los pesos y biases de una red (también
+conocido como algoritmo de entrenamiento). El propósito de
+la Regla de Aprendizaje es entrenar la red para realizar
+alguna tarea. Existen varios tipos de reglas de aprendizaje
+de redes neuronales. Se dividen en tres categorías:
+Aprendizaje Supervisado, Aprendizaje No Supervisado y
+Aprendizaje por Reforzamiento (@knuthwebsite).
+
+## Antecedentes históricos
+
+En un principio el *perceptron* se clasificó como un __modelo cerebral__. Este modelo
+busca explicar el funcionamiento *psicológico y fisiológico* del cerebro por medio
+de modelos matemáticos y el conocimiento que se tiene en neurociencias (Rosenblatt (1961)).  
+
+El modelo del *perceptron* en la actualidad es utilizado para *clasificar* espacios
+dimensionales lineale y no-lineales. Aunque el mismo autor mencionó que no solo
+sirve como modelo clasificador, si no también para poder simular el funcionamiento
+del cerebro humano (Rosenblatt (1961)). Esta premisa es constantemente cuestionada por
+ámbito científico, ya que en la actualidad estamos muy lejos de saber como es que
+funciona el ser humano.
+
+## El modelo matemático primera parte
+
+Un *perceptrón* está conformado por 3 capas, las cuales pueden ser aumentadas para
+generar mejores resultados, las teorías modernas del aprendizaje profundo (Deep learning)
+respaldan esta afirmación (@widrow199030).
+
+En este post nos centraremos en la estructura básica de un perceptrón.
+
+### Capas de un percetrón
+
+La primera capa está constituida por las *entradas*, estas son representadas por
+un vector de una dimensión. En la imagen siguiente podemos observar una representación
+gráfica de un perceptrón. La primera capa es la que describimos como las *entradas*.
+
+![Perceptrón](https://raw.githubusercontent.com/CICJoshua/poperagnarok/master/Images/unidad2/perceptron.png)
+
+En la segunda capa está la parte lógica del perceptrón en esta capa ocurre las
+matemáticas. Por cada una de los nodos de entrada, pasan al segundo nodo por medio
+del producto punto de los *pesos* y las *entradas*.
+
+## Pesos y bias
+
+Los pesos son la perillas que ajusta el algoritmo del perceptrón para ajustar la
+línea que separa el espacio dimensional. Recordemos la ecuación general de la recta:
+
+$$ax+by+c = 0$$
+
+En esta ecuación, los coeficientes *a y b* son los pesos que el algoritmo deberá
+modificar para poder clasificar __nuevas entradas__.
+
+El bias es el coeficiente *c* en la ecuación, esta sirve para encontrar en donde
+la recta corta el eje *y* en el plano cartesiano. Esto sirve siempre y cuando
+los datos estén desplazados del centro del eje cartesiano.
+
+
+## Metodología <a name="id2"></a>
+
+La investigación que se tuvo que realizar fue a través de la internet. Esta
+información la podemos encontrar los enlaces que estamos colocando como Referencias.
+Es decir que realizamos una investigación especializada, ya que este tema de
+investigación debe de ser tratado como tema **profundo** y no de bajo impacto.
+
+En el cronograma que mostramos en la siguiete imagen, podemos observar que las
+partes complejas son la investigaión del tema en sí. Realizar experimentos toma
+tiempo. Los experimentos que se pueden realizar son con el lenguaje de programación
+**python**, que para la comunidad científica ahora tiempo, ya que existen ya librerías
+hechas por la misma comunidad. Estos programas que podemos realizar son la
+clasificaión de objetos.
+
+Realizamos la clasificación por medio del concepto elemental del álgebra lineal.
+Esta representación linea del espacio de dos dimensiones como es el ejemplo básico
+de separación de dos dimsensiones.
+
+En la siguiente imagen podemos observar como es una neourona:
+
+![neourona](Unknown.png)
+
+## Resultados <a name="id3"></a>
+
+Los resultados que se obtuvieron los vamos a platicar desde el punto de vista de
+las entrevistas que realizamos en la actividad anterior.
+En esta actividad tenemos que realiazar una encuensta referente a nuestro tema de investigación. En esta entrevista fui genérico y hable de la **Inteligencia Artificial**, este tema abarca la teoría del __perceptrón__.
+
+Las preguntas son las siguientes:
+
+1. ¿Cuál es tu edad?
+2. ¿Cuál es tu genero?
+3. ¿Cuál es tu ocupación?
+4. ¿Cuál es tu nivel de estudios?
+5. ¿cuál es tu estado civil?
+6. ¿Sabes qué es la inteligencia artificial?
+7. ¿Sabes programar?
+8. ¿Crees que México debería de invertir en investigación del tema de inteligencia artificial?
+9. ¿Se te ocurre alguna aplicación que beneficie al país utilizando IA?
+10. ¿Qué aplicación se te ocurre?
+
+## Lo que dice la gente
+
+En las siguientes gráficas encontramos la relación de las primeras 5 preguntas las cuales llamo "Información descriptiva" vs la "Información caulitativa". La primera define al individuo, la segunda define la postura del individuo.
+
+## Pregunta 6
+
+Esta pregunta está relacionada en la gráfica con la edad del individuo y su nivel de estudio. Podemos observar que en la actualidad el tema popular de la __IA__ es conocido por un gran parte de la población, sin importar la edad del entrevistado.
+
+![¿Sabes qué es la inteligencia artificial?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p1.png?raw=true)
+
+## Pregunta 7
+
+En esta gráfica se puede observar el uso de la computadora como herramienta de trabajo, ya que la pregunta es abierta, no es necesario saber en que lenguaje las personas saben programar. Se obseva una tendencia de que las personas cada vez se interesan por aprender a programar.
+
+![¿Sabes programar?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p2.png?raw=true)
+
+## Pregunta 8 y 9
+
+En esta gráfica podemos observar la aceptación que tiene la sociedad hacia la __IA__. Esta pregunta se hizo para que los investigadores en este tema tomen en cuenta que la sociedad acepta y espera que en México apliquemos esta ciencia para el bienestar del país. Actualmente existen iniciativas como la que propuso el Director del __Instituto Politécnico Nacional__ Dr. Mario Casas de crear dos carreras con corte en __IA__ como lo son la carrera en **Ingeniería en Inteligencia Artificial** y la carrera **Ingeniería en Ciencias de Datos** son las que dan impulso a esta rama de la computación.
+
+[Noticia](https://www.jornada.com.mx/ultimas/2019/05/19/tendra-ipn-nueva-escuela-superior-en-palenque-5469.html)
+
+![¿Crees que México debería de invertir en investigación del tema de inteligencia artificial?](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p3.png?raw=true)
+
+
+## Edad de los entrevistados
+
+En la última gráfica podemos observar el __Boxplot__ de la edad de las personas. La concentración mayor es de entre 20 y 25 años de los entrevistados.
+
+![Edad de los entrevistados](https://github.com/CICJoshua/poperagnarok/blob/master/Images/unidad3/p5.png?raw=true)
+
+## Conclusiones
+
+Las conclusiones acerca del tema de investigación son las siguientes:
+
+1. No existe tal cosa de que las máquinas nos van a dominar
+2. El perceptrón es una herramienta computacional para clasificar datos
+3. Las aplicaciones en el sector salud serán las que ayudarán a los servicios de actualidad
+
+Estas conclusiones las podemos pensar como una forma de pensamiento del siglo XXI
+ya que los avances computacionales actuales son los que han servido de ayuda para
+comprender los fenómenos del aprenidazaje de las máquinas, entediendo esto en sentido
+de que las máquinas aprender con los datos que nostros recolectamos para ella. No
+es que las máquinas de la actualidad tengan la capacidad de buscar en internet como
+nostros haremos en nuestro curso en la unadm.
