@@ -12,7 +12,7 @@ En este proyecto lo resumo aquí.
 
 Les dejo el link en donde podes encontrar el proyecto completo.
 
-[link]()
+[link](https://github.com/CICJoshua/poperagnarok/blob/master/pdf/proyecto_joshua.pdf)
 
 En 1943, Warren McCulloch y Walter Pitts introdujeron una de
 las primeras neuronas artificiales. La característica principal
